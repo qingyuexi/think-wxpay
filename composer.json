@@ -1,6 +1,7 @@
 {
     "name": "qingyuexi/think-wxpay",
     "description": "wxpay package for thinkphp5",
+    "version" : "0.1",
     "authors": [
         {
             "name": "qingyuexi",

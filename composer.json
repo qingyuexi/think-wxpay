@@ -2,6 +2,7 @@
     "name": "qingyuexi/think-wxpay",
     "version": "1.0.2",
     "description": "wxpay package for thinkphp5",
+    "minimum-stability": "stable",
 	"keywords": [
 	    "wxpay",
 	    "thinkphp5"

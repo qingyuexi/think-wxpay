@@ -2,7 +2,6 @@
     "name": "qingyuexi/think-wxpay",
     "version": "1.0.2",
     "description": "wxpay package for thinkphp5",
-    "minimum-stability": "stable",
 	"keywords": [
 	    "wxpay",
 	    "thinkphp5"
@@ -13,21 +12,14 @@
             "email": "1604583867@qq.com"
         }
     ],
-    "license": "Apache-2.0",
-  	"bugs": {
-    	"url": "https://github.com/qingyuexi/think-wxpay/issues"
-  	},
+    "license": "MIT",
   	"homepage": "https://github.com/qingyuexi/think-wxpay#readme",
-    "require": {},
+    "require": {
+        "ThinkPHP": "5.0.6"
+    },
     "autoload": {
         "psr-4": {
             "think\\wxpay\\": "src/"
-        }
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
         }
     }
 }

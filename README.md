@@ -1,2 +1,1 @@
-# think-wxpay
-微信支付类
+think-wxpay

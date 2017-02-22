@@ -1,0 +1,17 @@
+{
+    "name": "qingyuexi/think-wxpay",
+    "description": "wxpay package for thinkphp5",
+    "authors": [
+        {
+            "name": "qingyuexi",
+            "email": "1604583867@qq.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\wxpay\\": "src/"
+        }
+    }
+}

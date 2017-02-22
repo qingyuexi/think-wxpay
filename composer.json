@@ -1,5 +1,6 @@
 {
     "name": "qingyuexi/think-wxpay",
+    "version": "0.0.1",
     "description": "wxpay package for thinkphp5",
     "repository": {
 	    "type": "git",

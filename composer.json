@@ -1,12 +1,25 @@
 {
     "name": "qingyuexi/think-wxpay",
     "description": "wxpay package for thinkphp5",
+    "repository": {
+	    "type": "git",
+	    "url": "git+https://github.com/qingyuexi/think-wxpay.git"
+	},
+	"keywords": [
+	    "wxpay",
+	    "thinkphp5"
+	],
     "authors": [
         {
             "name": "清月曦",
             "email": "1604583867@qq.com"
         }
     ],
+    "license": "ISC",
+  	"bugs": {
+    	"url": "https://github.com/qingyuexi/think-wxpay/issues"
+  	},
+  	"homepage": "https://github.com/qingyuexi/think-wxpay#readme",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {

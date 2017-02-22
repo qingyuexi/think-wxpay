@@ -16,12 +16,11 @@
             "email": "1604583867@qq.com"
         }
     ],
-    "license": "ISC",
+    "license": "Apache-2.0",
   	"bugs": {
     	"url": "https://github.com/qingyuexi/think-wxpay/issues"
   	},
   	"homepage": "https://github.com/qingyuexi/think-wxpay#readme",
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
